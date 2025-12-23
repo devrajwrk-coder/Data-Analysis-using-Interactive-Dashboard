@@ -18,3 +18,8 @@ Developed an interactive Excel dashboard to analyze 2023 online sales performanc
 Dashboard Interaction <a href="https://github.com/devrajwrk-coder/Data-Analysis-using-Interactive-Dashboard/blob/main/Screenshot%202025-12-23%20150210.png">View Dashboard</a>
 
 ## Process
+
+- Cleaned the raw data by removing duplicates, fixing formats, handling blanks, and standardizing values.
+- Converted the cleaned data into an Excel Table and created Pivot Tables for required metrics.
+- Built charts from Pivot Tables and arranged them into a structured dashboard layout.
+- Added slicers and timelines, connected them to all Pivot Tables, and applied formatting for interactivity.
