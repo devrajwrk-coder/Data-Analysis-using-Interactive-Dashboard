@@ -3,7 +3,7 @@
 Developed an interactive Excel dashboard to analyze 2023 E-Commerse sales performance across months, states, product categories, customer demographics, platforms, and order status using slicers and dynamic charts.
 
 ## Dataset Used
-- <a href="https://github.com/devrajwrk-coder/Data-Analysis-using-Interactive-Dashboard/blob/main/Online%20Sale%20Data%20Analysis.xlsx">Dataset</a>
+- <a href="https://github.com/devrajwrk-coder/Data-Analysis-using-Interactive-Dashboard/blob/main/E-Commerce%20Sale%20Data%20Analysis.xlsx">Dataset</a>
 
 ## Questions (KPIs)
 - Which month recorded the highest total sales in 2023?
@@ -15,7 +15,7 @@ Developed an interactive Excel dashboard to analyze 2023 E-Commerse sales perfor
 - Which age group places the highest number of orders?
 - What is the overall order fulfillment rate?
 
-Dashboard Interaction <a href="https://github.com/devrajwrk-coder/Data-Analysis-using-Interactive-Dashboard/blob/main/Screenshot%202025-12-23%20150210.png">View Dashboard</a>
+Dashboard Interaction <a href="https://github.com/devrajwrk-coder/Data-Analysis-using-Interactive-Dashboard/blob/main/Screenshot%202026-01-13%20193458.png">View Dashboard</a>
 
 ## Process
 
