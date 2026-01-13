@@ -25,5 +25,4 @@ Dashboard Interaction <a href="https://github.com/devrajwrk-coder/Data-Analysis-
 - Added slicers and timelines, connected them to all Pivot Tables, and applied formatting for interactivity.
 
 # Dashboard
-<img width="1850" height="964" alt="Screenshot 2025-12-23 150210" src="https://github.com/user-attachments/assets/7f1564e8-f2d8-455e-b22e-1bc80b86fcfd" />
 <img width="1857" height="957" alt="image" src="https://github.com/user-attachments/assets/8f226b3d-4ba9-4678-8cf8-81043a706408" />
